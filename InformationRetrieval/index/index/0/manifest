@@ -1,0 +1,62 @@
+<parameters>
+	<code-build-date>Jun 21 2017</code-build-date>
+	<corpus>
+		<document-base>1</document-base>
+		<frequent-terms>0</frequent-terms>
+		<maximum-document>6</maximum-document>
+		<total-documents>5</total-documents>
+		<total-terms>100</total-terms>
+		<unique-terms>66</unique-terms>
+	</corpus>
+	<fields>
+		<field>
+			<byte-offset>0</byte-offset>
+			<isNumeric>false</isNumeric>
+			<isOrdinal>false</isOrdinal>
+			<isParental>false</isParental>
+			<name>author</name>
+			<total-documents>5</total-documents>
+			<total-terms>13</total-terms>
+		</field>
+		<field>
+			<byte-offset>29</byte-offset>
+			<isNumeric>false</isNumeric>
+			<isOrdinal>false</isOrdinal>
+			<isParental>false</isParental>
+			<name>title</name>
+			<total-documents>5</total-documents>
+			<total-terms>46</total-terms>
+		</field>
+		<field>
+			<byte-offset>58</byte-offset>
+			<isNumeric>false</isNumeric>
+			<isOrdinal>false</isOrdinal>
+			<isParental>false</isParental>
+			<name>booktitle</name>
+			<total-documents>2</total-documents>
+			<total-terms>26</total-terms>
+		</field>
+		<field>
+			<byte-offset>75</byte-offset>
+			<isNumeric>false</isNumeric>
+			<isOrdinal>false</isOrdinal>
+			<isParental>false</isParental>
+			<name>journal</name>
+			<total-documents>3</total-documents>
+			<total-terms>10</total-terms>
+		</field>
+		<field>
+			<byte-offset>96</byte-offset>
+			<isNumeric>true</isNumeric>
+			<isOrdinal>false</isOrdinal>
+			<isParental>false</isParental>
+			<name>year</name>
+			<parserName></parserName>
+			<total-documents>5</total-documents>
+			<total-terms>5</total-terms>
+		</field>
+	</fields>
+	<indri-distribution>Indri development release 5.11</indri-distribution>
+	<type>DiskIndex</type>
+</parameters>
+

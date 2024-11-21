@@ -10,9 +10,6 @@ package informationretrieval;
  * @author asadour
  */
 public class Main {
-    
-    
-    
        public static void main(String[] args) 
        {
           InformationRetrieval ir = new InformationRetrieval();
